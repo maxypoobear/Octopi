@@ -12,9 +12,9 @@ def getAnswer(answerNumber):
       input()
       print('Stop owling around!')
     elif answerNumber == 3:
-      print('"It\'s actually just "The Doctor.""')
+      print('It\'s actually just "The Doctor."')
       input()
-      print('No, you idiot, it\'s just "The Doctor.')
+      print('No, you idiot, it\'s just "The Doctor".')
     elif answerNumber == 4:
       print('I eat mop')
       input()
